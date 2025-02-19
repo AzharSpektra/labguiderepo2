@@ -1,1 +1,1 @@
-pg2
+pg2<grouped-questions source="NewGroup1" />
